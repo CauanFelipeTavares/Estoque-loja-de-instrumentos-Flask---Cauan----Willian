@@ -1,7 +1,6 @@
 # Integrantes
 
-Cauan Felipe Tavares
-Willian Kenzo Kazama
+Cauan Felipe Tavares e Willian Kenzo Kazama
 
 # Objetivo
 
